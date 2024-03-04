@@ -1,0 +1,22 @@
+/* .con-item{
+    height: 100px;
+    width: 100px;
+    flex-direction: row-reverse;
+
+} */
+.Menu {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    column-gap: 20px;
+}
+.xyz:hover{
+   color: black;
+}
+div{
+    background-color: black;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
